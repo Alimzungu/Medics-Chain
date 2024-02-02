@@ -1,0 +1,4 @@
+body {
+    background-image: url(../images/doc.jpg);
+    background-size: cover; /* adjust the size of the background image */
+}
